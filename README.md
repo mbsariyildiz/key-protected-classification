@@ -82,3 +82,19 @@ To demonstrate this setting, we perform collaborative training where datasets ar
 - We see that when $d_{key}$ is small, eg. 128, the distribution learned by the generator network resembles the digits.
 - However, using high-dimensional keys can alleviate this.
 
+# Bibtex
+
+Please use the following bib if you use the code or want to cite the paper.
+
+```
+@article{sariyildiz2020keyprotected,
+    title = "Key Protected Classification for Collaborative Learning",
+    author = "Mert Bulent Sariyildiz and Ramazan Gokberk Cinbis and Erman Ayday",
+    journal = "Pattern Recognition",
+    pages = "107327",
+    year = "2020",
+    issn = "0031-3203",
+    doi = "https://doi.org/10.1016/j.patcog.2020.107327",
+    url = "http://www.sciencedirect.com/science/article/pii/S0031320320301308",
+}
+```
