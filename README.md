@@ -25,8 +25,8 @@ The code automatically downloads them into `../data/`.
 Set the `OUTPUT_ROOT` variables in  `clf_training.sh` and `gan_attack.sh` scripts to the directory where you want the programs save outputs to.
 
 **environment**:
-I run `src/requirements.txt` is generated via `conda list -e > requirements.txt`.
-See the first two lines of this file to create a new conda environment with all the packages I used to obtain the results belove.
+`src/requirements.txt` is generated via `conda list -e > requirements.txt`.
+See the first two lines of this file to create a new conda environment with all the packages I used to obtain the results below.
 
 # experiments
 
